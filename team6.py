@@ -6,7 +6,7 @@
 #     move: A function that returns 'c' or 'b'
 ####
 
-team_name = 'The name the team gives to itself' # Only 10 chars displayed.
+team_name = "mastadon"
 strategy_name = 'The name the team gives to this strategy'
 strategy_description = 'How does this strategy decide?'
     
@@ -66,5 +66,4 @@ if __name__ == '__main__':
               my_score=0, 
               their_score=0,
               result='b')      
- team_name = "mastadon"
         
